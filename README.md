@@ -51,8 +51,18 @@ Naive bays is used for this project because of its Simplicity, speed and effecti
 
 ##### metrics after fine-tuning:
 <img width="232" alt="image" src="https://github.com/user-attachments/assets/a1c09e61-bd07-4771-9aea-92baa169e223">
-###### 
+
+ Heatmap
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/c94a012e-3e83-4073-8263-9dc9de1abcc6">
+
+Interpretation of results:
+
+## Future Improvements:
+ Future Improvements
+- **Real-Time Feedback Loop:** Incorporate real-time data for continuous improvement and faster issue resolution.
+- **Advanced Text Classification Models:** Explore deep learning models like BERT or GPT to improve classification accuracy.
+- **Sentiment Analysis:** Analyze customer sentiment to gauge the emotional tone of complaints and prioritize urgent issues.
+
 
 
 
