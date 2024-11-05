@@ -32,9 +32,29 @@ The heatmap below shows the distribution of complaint lengths across different c
 This heatmap provides insights into the complexity of complaints in each category, allowing institutions to understand and manage lengthy or detailed complaints more effectively.
 
 ## Creating a numerical model
-###vectorization using TF-IDF
+### vectorization using TF-IDF
 I chose to use TF-IDF for this project (Term Frequency-Inverse Document Frequency) for vectorization in this project because it helps focus the model on words that are particularly significant for distinguishing between different types of complaints, rather than just frequent terms. 
 <img width="579" alt="image" src="https://github.com/user-attachments/assets/9f6c58e7-526d-4526-9ba8-d76ca7773706">
+
+### classification using Naive bays
+Naive bays is used for this project because of its Simplicity, speed and effectiveness with text.
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/93170142-4dbf-4e53-b1c0-0ba510a148e7">
+
+Metrics using the Naive Bayes Model:
+<img width="243" alt="image" src="https://github.com/user-attachments/assets/91933342-261c-4c61-a915-a88a5b78c3b0">
+
+#### FineTuning using GridSearch
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/dc15058e-dfbd-4ae7-a606-738fe87f7abb">
+
+metrics after fine-tuning:
+<img width="232" alt="image" src="https://github.com/user-attachments/assets/a1c09e61-bd07-4771-9aea-92baa169e223">
+
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/c94a012e-3e83-4073-8263-9dc9de1abcc6">
+
+
+
+
+
 
 
 
