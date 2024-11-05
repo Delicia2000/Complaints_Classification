@@ -43,13 +43,13 @@ I chose to use TF-IDF for this project (Term Frequency-Inverse Document Frequenc
 Naive bays is used for this project because of its Simplicity, speed and effectiveness with text.
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/93170142-4dbf-4e53-b1c0-0ba510a148e7">
 
-Metrics using the Naive Bayes Model:
+##### Metrics using the Naive Bayes Model:
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/91933342-261c-4c61-a915-a88a5b78c3b0">
 
 #### FineTuning using GridSearch
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/dc15058e-dfbd-4ae7-a606-738fe87f7abb">
 
-metrics after fine-tuning:
+##### metrics after fine-tuning:
 <img width="232" alt="image" src="https://github.com/user-attachments/assets/a1c09e61-bd07-4771-9aea-92baa169e223">
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/c94a012e-3e83-4073-8263-9dc9de1abcc6">
