@@ -6,5 +6,32 @@ To build a real-time complaint monitoring system that will allow service-based i
 Customer complaints are a critical indicator of service quality. However, organizations such as banks that directly serve clients often struggle to manage large volumes of complaints effectively. This can lead to delayed resolutions and frustrated customers. Without proper categorization and monitoring, companies cannot identify the most frequent or urgent issues that require immediate action, causing dissatisfaction and potential customer loss.
 
 ## Snapshot of my data and data source
+
+The data is downloaded from Kaggle.
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/9d07fcc0-51e4-4bd8-afc8-c4275757414e">
-The data is downloaded from kaggle
+
+
+Data Distribution by Category
+Below is the distribution of complaints across different categories, visualized in a barplot:
+
+![Barplot - Distribution of Complaints by Category](https://github.com/user-attachments/assets/98b20590-9d5b-4ba9-9c05-a5c76959146e)
+
+This barplot helps identify which categories receive the most complaints, enabling institutions to prioritize resources where they are most needed.
+
+## Common Words in Complaints (After Data Cleaning)
+The most frequently occurring words in the complaints dataset after data cleaning are shown below in a word cloud:
+
+![Word Cloud - Most Common Words in Complaints](https://github.com/user-attachments/assets/270189d2-97cc-49a4-98cd-33994e37c8de)
+
+This visualization helps identify common themes and issues that may require focused attention or improvements.
+
+## Heatmap of Complaint Length by Category
+The heatmap below shows the distribution of complaint lengths across different categories:
+
+![Heatmap - Length of Complaints by Category](https://github.com/user-attachments/assets/29774533-3155-43ba-aab3-e18da636cf65)
+
+This heatmap provides insights into the complexity of complaints in each category, allowing institutions to understand and manage lengthy or detailed complaints more effectively.
+
+
+
+
