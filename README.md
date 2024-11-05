@@ -31,7 +31,13 @@ The heatmap below shows the distribution of complaint lengths across different c
 
 This heatmap provides insights into the complexity of complaints in each category, allowing institutions to understand and manage lengthy or detailed complaints more effectively.
 
-## Create a numerical model
+## Creating a numerical model
+###vectorization using TF-IDF
+I chose to use TF-IDF for this project (Term Frequency-Inverse Document Frequency) for vectorization in this project because it helps focus the model on words that are particularly significant for distinguishing between different types of complaints, rather than just frequent terms. 
+<img width="579" alt="image" src="https://github.com/user-attachments/assets/9f6c58e7-526d-4526-9ba8-d76ca7773706">
+
+
+
 
 
 
