@@ -79,7 +79,9 @@ The model was initially evaluated using standard metrics. The following table su
 ## Fine-Tuning the Model
 
 ### Hyperparameter Tuning with GridSearch
-To improve the model’s performance, we applied GridSearch for hyperparameter tuning. The following image demonstrates the process of fine-tuning the model:
+To improve the model’s performance, we applied GridSearch for hyperparameter tuning.
+Grid search is  method that tries every possible combination of specified hyperparameters for a machine learning model to find the best combination that optimizes model performance.
+The following image demonstrates the process of fine-tuning the model:
 
 ![GridSearch Fine-Tuning](https://github.com/user-attachments/assets/dc15058e-dfbd-4ae7-a606-738fe87f7abb)
 
