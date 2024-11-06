@@ -95,11 +95,11 @@ The confusion matrix provides a detailed look at the model’s performance acros
 
 ![Confusion Matrix](https://github.com/user-attachments/assets/c94a012e-3e83-4073-8263-9dc9de1abcc6)
 ##### Interpretation
- ** 2430 successfully predicted as Cedit Reporting complaints** 
-** 16757 successfully predicted as debt collection complaints** 
-  ** 3334 successfully predicted as Mortgages and loans complaints** 
-  ** 3356 successfully predicted as Cedit card complaints** 
-   ** 2334 successfully predicted as Retail banking complaints** 
+****2430 successfully predicted as Cedit Reporting complaints** 
+**16757 successfully predicted as debt collection complaints** 
+ **3334 successfully predicted as Mortgages and loans complaints** 
+ **3356 successfully predicted as Cedit card complaints** 
+ **2334 successfully predicted as Retail banking complaints** **
    
 ---
 
