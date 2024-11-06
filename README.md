@@ -52,7 +52,7 @@ This analysis provides insights into the complexity of complaints in each catego
 ---
 
 ## Creating a Numerical Model
-
+After performing tokenization and lemmatization, I'll perform vectorization 
 ### Vectorization using TF-IDF
 For vectorizing the textual data, we used TF-IDF (Term Frequency-Inverse Document Frequency). This technique helps highlight the most significant terms in the complaints that can differentiate between categories. The following image shows the process of applying TF-IDF to the dataset:
 
@@ -67,7 +67,7 @@ We selected Naive Bayes as the classification algorithm due to its simplicity, s
 
 ## Model Evaluation
 
-### Metrics using Naive Bayes Model
+### Metrics using the Naive Bayes Model
 The model was initially evaluated using standard metrics. The following table summarizes the performance:
 
 ![Model Metrics](https://github.com/user-attachments/assets/91933342-261c-4c61-a915-a88a5b78c3b0)
@@ -94,17 +94,20 @@ After fine-tuning, the model’s performance improved, as seen in the following 
 The confusion matrix provides a detailed look at the model’s performance across different categories. The following image highlights the classification performance:
 
 ![Confusion Matrix](https://github.com/user-attachments/assets/c94a012e-3e83-4073-8263-9dc9de1abcc6)
-
----
 ##### Interpretation
-
+ ** 2430 successfully predicted as Cedit Reporting complaints** 
+** 16757 successfully predicted as debt collection complaints** 
+  ** 3334 successfully predicted as Mortgages and loans complaints** 
+  ** 3356 successfully predicted as Cedit card complaints** 
+   ** 2334 successfully predicted as Retail banking complaints** 
+   
 ---
 
 ## Future Improvements
 
 - **Advanced Text Classification Models:** Explore deep learning models like BERT to improve classification accuracy.
 - **Deploy my model using Flask:** Incorporate real-time data for continuous improvement and faster issue resolution.
-- **Dashboard:** Using Power BI, make a dashbaord that showcases in real time the complaints distribution
+- **Dashboard:** Using Power BI, make a dashboard that showcases in real-time the complaints distribution
 
 
 
