@@ -18,11 +18,13 @@ The dataset used for this project is sourced from Kaggle, containing customer co
 
 #### Data Distribution by Category
 
-The following barplot visualizes the distribution of complaints across various categories:
+The following barplot and Pie chart visualizes the distribution of complaints across various categories:
 
 ![Barplot - Distribution of Complaints by Category](https://github.com/user-attachments/assets/98b20590-9d5b-4ba9-9c05-a5c76959146e)
+<img width="294" alt="image" src="https://github.com/user-attachments/assets/3932248a-828e-47f1-9902-ae397e64794e">
 
-This plot provides an overview of which complaint categories are most frequent, offering insights into areas of potential concern.
+
+These plots provides an overview of which complaint categories are most frequent, offering insights into areas of potential concern.
 
 ---
 
